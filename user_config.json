@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": "My_Daily_Briefing",
+    "topic": "Artificial Intelligence",
+    "frequency": "daily",
+    "email": "tanishqmann123@gmail.com"
+  },
+  {
+    "user_id": "Tech_Trends",
+    "topic": "Nvidia and GPUs",
+    "frequency": "daily",
+    "email": "nonu1084@gmail.com"
+  }
+]
