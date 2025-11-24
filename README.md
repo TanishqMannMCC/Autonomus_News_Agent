@@ -1,6 +1,6 @@
 # Autonomus_News_Agent
 
-Autonomous News Agent
+
 
 An intelligent news aggregator that fetches articles using NewsAPI and generates concise AI summaries using Google's Gemini model. It operates in two modes: an interactive web app and a fully automated daily email agent.
 
